@@ -1,0 +1,78 @@
+  _____________________________________________________
+ /
+|       Device: USRP2 / N-Series Device
+|     _____________________________________________________
+|    /
+|   |       Mboard: N210r4
+|   |   hardware: 2577
+|   |   mac-addr: 00:80:2f:0a:cc:89
+|   |   ip-addr: 192.168.50.173
+|   |   subnet: 255.255.255.255
+|   |   gateway: 255.255.255.255
+|   |   gpsdo: none
+|   |   serial: F28341
+|   |   FW Version: 12.4
+|   |   FPGA Version: 11.1
+|   |   
+|   |   Time sources:  none, external, _external_, mimo
+|   |   Clock sources: internal, external, mimo
+|   |   Sensors: mimo_locked, ref_locked
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX DSP: 0
+|   |   |   
+|   |   |   Freq range: -50.000 to 50.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX DSP: 1
+|   |   |   
+|   |   |   Freq range: -50.000 to 50.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX Dboard: A
+|   |   |   ID: XCVR2450, XCVR2450 - r2.1 (0x0061)
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Frontend: 0
+|   |   |   |   Name: XCVR2450 RX
+|   |   |   |   Antennas: J1, J2
+|   |   |   |   Sensors: lo_locked, rssi
+|   |   |   |   Freq range: 2400.000 to 6000.000 MHz
+|   |   |   |   Gain range LNA: 0.0 to 30.5 step 15.0 dB
+|   |   |   |   Gain range VGA: 0.0 to 62.0 step 2.0 dB
+|   |   |   |   Bandwidth range: 13500000.0 to 39600000.0 step 600000.0 Hz
+|   |   |   |   Connection Type: IQ
+|   |   |   |   Uses LO offset: No
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Codec: A
+|   |   |   |   Name: ads62p44
+|   |   |   |   Gain range digital: 0.0 to 6.0 step 0.5 dB
+|   |   |   |   Gain range fine: 0.0 to 0.5 step 0.1 dB
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX DSP: 0
+|   |   |   
+|   |   |   Freq range: -50.000 to 50.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX Dboard: A
+|   |   |   ID: XCVR2450 (0x0060)
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Frontend: 0
+|   |   |   |   Name: XCVR2450 TX
+|   |   |   |   Antennas: J1, J2
+|   |   |   |   Sensors: lo_locked
+|   |   |   |   Freq range: 2400.000 to 6000.000 MHz
+|   |   |   |   Gain range VGA: 0.0 to 30.0 step 0.5 dB
+|   |   |   |   Gain range BB: 0.0 to 5.0 step 1.5 dB
+|   |   |   |   Bandwidth range: 24000000.0 to 48000000.0 step 12000000.0 Hz
+|   |   |   |   Connection Type: QI
+|   |   |   |   Uses LO offset: No
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Codec: A
+|   |   |   |   Name: ad9777
+|   |   |   |   Gain Elements: None
+
